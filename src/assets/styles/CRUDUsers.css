@@ -1,0 +1,14 @@
+#crud-products {
+    
+    width: 550px;
+    padding: 20px;
+    margin: 20px auto 0 auto;
+}
+@media (max-width: 500px ){
+    #crud-products {
+        width: 200px;
+        padding: 10px;
+        margin: 10px ;
+        /* margin: 10px 10px 0 auto; */
+    }
+}
